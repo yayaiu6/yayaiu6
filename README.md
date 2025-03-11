@@ -20,6 +20,6 @@ My focus is on **building and improving AI models from scratch**, rather than re
 ##  Let's Connect!  
 📧 **Email:** yahyamahroof35@gmail.com  
 🔗 **GitHub:** [yayaiu6](https://github.com/yayaiu6)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/yahya-mahroof-671405344/] 
+💼 **LinkedIn:** https://www.linkedin.com/in/yahya-mahroof-671405344/ 
 
 
