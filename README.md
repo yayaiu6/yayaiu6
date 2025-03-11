@@ -13,7 +13,7 @@ My focus is on **building and improving AI models from scratch**, rather than re
 
 ## 🛠️ Technical Skills  
 ✅ **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch)  
-✅ **AI & ML:** Deep Learning, NLP, Transformers, GPT-based models  
+✅ **AI & ML:** Deep Learning, NLP, Transformers  
 ✅ **Data Science:** Data Preprocessing, Feature Engineering, Model Optimization  
 ✅ **Tools:** Google Colab, Visual Studio Code, Jupyter Notebooks, Hugging Face, Kaggle  
 
