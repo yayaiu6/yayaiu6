@@ -11,7 +11,7 @@ My focus is on **building and improving AI models from scratch**, rather than re
 - **Data Science & Machine Learning** using **Python, Scikit-learn, and PyTorch**  
 - **Building custom AI models tailored to specific needs**  
 
-## 🛠️ Technical Skills  
+##  Technical Skills  
 ✅ **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch)  
 ✅ **AI & ML:** Deep Learning, NLP, Transformers  
 ✅ **Data Science:** Data Preprocessing, Feature Engineering, Model Optimization  
