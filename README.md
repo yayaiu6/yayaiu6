@@ -6,10 +6,10 @@ I specialize in **Natural Language Processing (NLP), Deep Learning, and AI model
 My focus is on **building and improving AI models from scratch**, rather than relying on pre-trained solutions.  
 
 ##  Areas of Expertise  
-- ** AI Research & Development** with **Transformers & LLMs**  
-- ** Fine-tuning & optimizing NLP models** with **Deep Learning**  
-- ** Data Science & Machine Learning** using **Python, Scikit-learn, and PyTorch**  
-- ** Building custom AI models tailored to specific needs**  
+- **AI Research & Development** with **Transformers & LLMs**  
+- **Fine-tuning & optimizing NLP models** with **Deep Learning**  
+- **Data Science & Machine Learning** using **Python, Scikit-learn, and PyTorch**  
+- **Building custom AI models tailored to specific needs**  
 
 ## 🛠️ Technical Skills  
 ✅ **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch)  
