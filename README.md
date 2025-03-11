@@ -1,6 +1,6 @@
-# 👋 Yahya M. Marouf  
 
-## 🚀 About Me  
+
+##  About Me  
 Hi there! I’m **Yahya M. Marouf**, a passionate **AI and Machine Learning Engineer**.  
 I specialize in **Natural Language Processing (NLP), Deep Learning, and AI model optimization**.  
 My focus is on **building and improving AI models from scratch**, rather than relying on pre-trained solutions.  
