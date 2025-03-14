@@ -2,7 +2,6 @@
 
 ##  About Me  
 Hi there! I’m **Yahya M. Marouf**, a passionate **AI and Machine Learning Engineer**.  
-My focus is on **building and improving AI models from scratch**, rather than relying on pre-trained solutions.  
 
 ##  Areas of Expertise  
 - **AI Research & Development** with **Transformers & LLMs**  
