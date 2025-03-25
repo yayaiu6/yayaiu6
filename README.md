@@ -1,23 +1,36 @@
+# **About Me**  
+Hi there! I’m **Yahya M. Marouf**, a passionate **AI and Machine Learning Engineer** with a strong background in **Supervised Learning, NLP, and Edge AI**.  
+I specialize in developing **AI-powered applications**, optimizing **ML models for edge devices**, and fine-tuning **NLP models** for real-world use cases.  
 
+---
 
-##  About Me  
-Hi there! I’m **Yahya M. Marouf**, a passionate **AI and Machine Learning Engineer**.  
+## **Areas of Expertise**  
+✅ **Supervised Machine Learning** (Regression & Classification) – *Stanford University*  
+✅ **Linear Algebra for ML** – *DeepLearning.AI*  
+✅ **AI Agents & NLP Models** – *Hugging Face*  
+✅ **Edge AI & ML Deployment** – *ARM-based devices*  
 
-##  Areas of Expertise  
-- **AI Research & Development** with **Transformers & LLMs**  
-- **Fine-tuning & optimizing NLP models** with **Deep Learning**  
-- **Data Science & Machine Learning** using **Python, Scikit-learn, and PyTorch**  
-- **Building custom AI models tailored to specific needs**  
+---
 
-##  Technical Skills  
-✅ **Programming:** Python (Pandas, NumPy, Scikit-learn, PyTorch)  
-✅ **AI & ML:** Deep Learning, NLP, Transformers  
-✅ **Data Science:** Data Preprocessing, Feature Engineering, Model Optimization  
-✅ **Tools:** Google Colab, Visual Studio Code, Jupyter Notebooks, Hugging Face, Kaggle  
+## **Technical Skills**  
+### 🔹 **Programming**  
+- Python (*NumPy, Pandas, Scikit-learn, PyTorch*)  
 
-##  Let's Connect!  
-📧 **Email:** yahyamahroof35@gmail.com  
+### 🔹 **AI & ML**  
+- Supervised Learning, Regression & Classification, Deep Learning  
+
+### 🔹 **Edge AI**  
+- Optimizing ML models for embedded systems & ARM architectures  
+
+### 🔹 **Computer Vision**  
+- Image processing, Object detection & segmentation  
+
+### 🔹 **Tools**  
+- Google Colab, Jupyter Notebooks, Hugging Face, Kaggle  
+
+---
+
+## **Let's Connect!**  
+📧 **Email:** [yahyamahroof35@gmail.com](mailto:yahyamahroof35@gmail.com)  
 🔗 **GitHub:** [yayaiu6](https://github.com/yayaiu6)  
-💼 **LinkedIn:** https://www.linkedin.com/in/yahya-mahroof-671405344/ 
-
-
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yahya-mahroof-671405344/)
