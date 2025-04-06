@@ -7,7 +7,7 @@ I am an AI and Machine Learning developer driven by a passion for turning innova
 ## What I Bring to the Table
 
 ### My Expertise
-- ✅ **Supervised Machine Learning (Regression & Classification)** – Learned from Stanford University  
+- ✅ **Supervised Machine Learning** – Learned from Stanford University  
 - ✅ **Linear Algebra for ML** – Mastered through DeepLearning.AI  
 - ✅ **AI Agents & NLP Models** – Hands-on with Hugging Face  
 - ✅ **Edge AI & ML Deployment** – Optimized for ARM-based devices  
