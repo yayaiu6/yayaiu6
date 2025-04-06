@@ -33,4 +33,4 @@ I specialize in developing **AI-powered applications**, optimizing **ML models f
 ## **Let's Connect!**  
 📧 **Email:** [yahyamahroof35@gmail.com](mailto:yahyamahroof35@gmail.com)  
 🔗 **GitHub:** [yayaiu6](https://github.com/yayaiu6)  
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yahya-mahroof)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yahya-mahrouf/)
