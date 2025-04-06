@@ -1,8 +1,6 @@
 # **About Me**  
 
-I'm an AI and Machine Learning developer passionate about transforming ideas into intelligent solutions. 
-I specialize in Supervised Learning, Natural Language Processing (NLP), and Computer Vision.
-My work focuses on developing AI-powered applications and fine-tuning models for real-world impact
+I am an AI and Machine Learning developer driven by a passion for turning innovative ideas into intelligent, impactful solutions. My expertise spans Supervised Learning, Natural Language Processing (NLP), and Computer Vision. I focus on building AI-powered applications and fine-tuning models to deliver measurable real-world results.
 
 ---
 
