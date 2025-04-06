@@ -1,6 +1,6 @@
 # **About Me**  
 
-I’m an AI and Machine Learning developer who loves turning ideas into smart solutions. I’m passionate about Supervised Learning, Natural Language Processing (NLP), and Edge AI. My work focuses on building AI-powered apps, optimizing models for edge devices like ARM systems, and fine-tuning NLP models for real-world impact. Whether it’s detecting car plates or powering chatbots, I’m here to make tech work smarter!
+I’m an AI and Machine Learning developer passionate about turning ideas into smart solutions. I specialize in Supervised Learning, Natural Language Processing (NLP), Edge AI, and Computer Vision. My work focuses on building AI-powered apps, optimizing models for edge devices like ARM systems, and fine-tuning NLP models for real-world impact.
 
 ---
 
