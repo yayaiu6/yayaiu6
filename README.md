@@ -41,7 +41,7 @@ Here’s a peek at what I’ve been working on:
 I’d love to chat about AI, collaborate on projects, or just geek out over tech. Reach me here:  
 - 📧 **Email**: [yahyamahroof35@gmail.com](mailto:yahyamahroof35@gmail.com)  
 - 🔗 **GitHub**: [yayaiu6](https://github.com/yayaiu6)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](insert-your-linkedin-url-here)  
+- 💼 **LinkedIn**: [yahya-mahroof](https://www.linkedin.com/in/yahya-mahrouf/)  
 
 ---
 
