@@ -21,7 +21,7 @@ I am an AI and Machine Learning developer driven by a passion for turning innova
 
 ---
 
-## 📘 My Projects
+## 🚀 My Projects
 
 Here’s a peek at what I’ve been working on:
 
@@ -35,8 +35,9 @@ Here’s a peek at what I’ve been working on:
    - A chatbot project connecting OpenAI’s GPT-4o to Facebook Messenger. It’s smart, context-aware, and ready to chat!
 
 4. **[Eshraq AI - Smart Exam Creation and Grading Platform](https://rr1mt12j-8501.uks1.devtunnels.ms)**  
-   - A web-based platform built with Streamlit that allows teachers to create, manage, and grade exams using GPT-4.1-nano.  
-     It supports multiple question types, auto-grading, and secure exam sharing — all designed to save teachers time and enhance fairness in evaluations.
+   - A web platform using OpenAI’s **GPT-4.1-nano** to help teachers create, share, and auto-grade exams fast. Smart, simple, and made for education!
+
+
 
 ## Let’s Connect!
 
