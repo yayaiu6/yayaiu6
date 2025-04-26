@@ -34,8 +34,8 @@ Here’s a peek at what I’ve been working on:
 3. **[ChatGPT-Powered-Messenger-Bot](https://github.com/yayaiu6/ChatGPT-Powered-Messenger-Bot)**  
    - A chatbot project connecting OpenAI’s GPT-4o to Facebook Messenger. It’s smart, context-aware, and ready to chat!
 
-4. **[Eshraq AI - Smart Exam Creation and Grading Platform](https://rr1mt12j-8501.uks1.devtunnels.ms)**  
-   - A web platform using OpenAI’s **GPT-4.1-nano** to help teachers create, share, and auto-grade exams fast. Smart, simple, and made for education!
+4. **[Essay_Grader_AI - Smart Exam Creation and Grading Platform](https://yayaiu6-essay-grader-ai.hf.space/)**  
+   - A web platform using OpenAI’s **GPT-4.1** to help teachers create, share, and auto-grade exams fast. Smart, simple, and made for education!
 
 
 
