@@ -37,7 +37,10 @@ Here’s a peek at what I’ve been working on:
 4. **[Essay_Grader_AI - Smart Exam Creation and Grading Platform](https://yayaiu6-essay-grader-ai.hf.space/)**  
    - A web platform using OpenAI’s **GPT-4.1** to help teachers create, share, and auto-grade exams fast. Smart, simple, and made for education!
 
+5. **[Transformer Model from Scratch-Sentiment Classification](https://github.com/yayaiu6/Transformer-Model-from-Scratch-Sentiment-Classification)**  
+   - A custom Transformer built from scratch for sentiment classification on Sentiment140. Features RoPE, Multi-Head Attention, and SwiGLU. Ready to explore? Check the [deployable version](https://github.com/yayaiu6/Deployable-Transformer-Sentiment-Classifier) for scaling or deployment!
 
+---
 
 ## Let’s Connect!
 
