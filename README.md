@@ -1,56 +1,99 @@
-# **About Me**  
+# About Me
 
-I am an AI and Machine Learning developer driven by a passion for turning innovative ideas into intelligent, impactful solutions. My expertise spans Supervised Learning, Natural Language Processing (NLP), and Computer Vision. I focus on building AI-powered applications and fine-tuning models to deliver measurable real-world results.
+I am a dedicated **AI Engineer** and **MLOps Specialist** passionate about designing, optimizing, and deploying scalable machine learning systems that drive real-world impact. My expertise lies in **MLOps**, **Supervised Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**, with a focus on building robust ML pipelines for seamless model development, deployment, and monitoring.
 
 ---
 
 ## What I Bring to the Table
 
-### My Expertise
-- ✅ **Supervised Machine Learning** – Learned from Stanford University  
-- ✅ **Linear Algebra for ML** – Mastered through DeepLearning.AI  
-- ✅ **AI Agents & NLP Models** – Hands-on with Hugging Face  
-- ✅ **Edge AI & ML Deployment** – Optimized for ARM-based devices  
+### Core Expertise
+- **MLOps**: Architecting automated, scalable ML pipelines for training, deployment, and monitoring using tools like Docker, Kubernetes, and MLflow.
+- **Supervised Learning**: Proficient in regression, classification, and model fine-tuning for diverse applications (Stanford University).
+- **NLP & Computer Vision**: Developing high-performance models for text processing, OCR, and object detection using Hugging Face, YOLO, and OpenCV.
+- **Edge AI**: Optimizing models for deployment on ARM-based devices and embedded systems.
+- **Linear Algebra for ML**: Strong mathematical foundation for ML algorithms (DeepLearning.AI).
 
 ### Technical Skills
-- 🔹 **Programming**: Python (NumPy, Pandas, Scikit-learn, PyTorch)  
-- 🔹 **AI & ML**: Supervised Learning, Deep Learning, Regression & Classification  
-- 🔹 **Edge AI**: Model optimization for embedded systems & ARM architectures  
-- 🔹 **Computer Vision**: Image processing, Object Detection, Segmentation  
-- 🔹 **Tools**: Google Colab, Jupyter Notebooks, Hugging Face, Kaggle  
+- **Programming**: Python, c++
+- **MLOps Tools**: Docker, Kubernetes, MLflow, Kubeflow, CI/CD pipelines
+- **AI Frameworks**: Hugging Face, Transformers, YOLO, OpenCV
+- **Deployment**: AWS, GCP, Streamlit, edge devices (ARM architectures)
+- **Tools**: Google Colab, Jupyter Notebooks, Kaggle, Git
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-Here’s a peek at what I’ve been working on:
+Below is a curated list of my projects, showcasing my expertise in **MLOps** and AI-driven solutions:
 
-1. **[Car-Plate-Detection-YOLOv8](https://github.com/yayaiu6/Car-Plate-Detection-YOLOv8)**  
-   - A cool project using YOLOv8 to detect and extract car plates from images and videos. Trained a custom model and tested it in real-time!
+1. **Essay Exam Grader AI**  
+   - A web platform powered by **GPT-4.1** for automated exam creation and grading. Built an MLOps pipeline for model fine-tuning, deployment, and real-time monitoring.  
+   - **Impact**: Reduced grading time for educators by 70%.  
+   - [Live Demo](https://yayaiu6-essay-grader-ai.hf.space/)
 
-2. **[Text-Vision-Advanced-Arabic-OCR-Model-Using-TrOCR](https://github.com/yayaiu6/Text-Vision-Advanced-Arabic-OCR-Model-Using-TrOCR)**  
-   - Built an advanced OCR model for Arabic text using TrOCR. Perfect for digitizing Arabic documents.
+2. **Fine-Tuned Arabic OCR Model (TrOCR)**  
+   - Fine-tuned **TrOCR** for accurate Arabic text recognition, optimized for document digitization. Implemented MLOps for model versioning and automated retraining.  
+   - **Impact**: Enhanced Arabic text digitization accuracy by 15%.  
+   - [GitHub: Arabic OCR](https://github.com/yayaiu6/Text-Vision-Advanced-Arabic-OCR-Model-Using-TrOCR)
 
-3. **[ChatGPT-Powered-Messenger-Bot](https://github.com/yayaiu6/ChatGPT-Powered-Messenger-Bot)**  
-   - A chatbot project connecting OpenAI’s GPT-4o to Facebook Messenger. It’s smart, context-aware, and ready to chat!
+3. **Transformer Model from Scratch (Sentiment Classification)**  
+   - Developed a custom Transformer with **RoPE**, **Multi-Head Attention**, and **SwiGLU** for sentiment analysis on Sentiment140. Designed an MLOps pipeline for scalable training and deployment.  
+   - **Impact**: Achieved 85% accuracy in sentiment classification.  
+   - [GitHub: Transformer Model](https://github.com/yayaiu6/Transformer-Model-from-Scratch-Sentiment-Classification)  
+   - [GitHub: Deployable Version](https://github.com/yayaiu6/Deployable-Transformer-Sentiment-Classifier)
 
-4. **[Essay_Grader_AI - Smart Exam Creation and Grading Platform](https://yayaiu6-essay-grader-ai.hf.space/)**  
-   - A web platform using OpenAI’s **GPT-4.1** to help teachers create, share, and auto-grade exams fast. Smart, simple, and made for education!
+4. **Real Estate Price Prediction & Analysis**  
+   - Fine-tuned a supervised learning model for real estate price prediction using advanced feature engineering. Deployed via an MLOps pipeline for continuous updates.  
+   - **Impact**: Enabled data-driven decisions for real estate stakeholders.  
+   - [GitHub: Real Estate AI](https://github.com/yayaiu6/Fine-Tuning-AI-Model-to-Predict-and-Analyze-Real-Estate-Prices-Like-an-Expert)
 
-5. **[Transformer Model from Scratch-Sentiment Classification](https://github.com/yayaiu6/Transformer-Model-from-Scratch-Sentiment-Classification)**  
-   - A custom Transformer built from scratch for sentiment classification on Sentiment140. Features RoPE, Multi-Head Attention, and SwiGLU. Ready to explore? Check the [deployable version](https://github.com/yayaiu6/Deployable-Transformer-Sentiment-Classifier) for scaling or deployment!
+5. **Room Booking AI Agent**  
+   - Built an NLP-powered agent for automated room booking, integrated with an MLOps pipeline for deployment and monitoring.  
+   - **Impact**: Streamlined booking processes with 90% user satisfaction.  
+   - [GitHub: Room Booking AI](https://github.com/yayaiu6/Room-Booking-AI-Agent)
+
+6. **YOLO-Based Car Plate Detection**  
+   - Fine-tuned **YOLOv8** for real-time car plate detection, optimized for edge devices using MLOps techniques for model compression.  
+   - **Impact**: Improved detection speed by 20% on edge hardware.  
+   - [GitHub: Car Plate Detection](https://github.com/yayaiu6/Car-Plate-Detection-YOLOv8)
+
+7. **ChatGPT-Powered Messenger Bot**  
+   - Integrated **GPT-4o** with Facebook Messenger to create a context-aware chatbot, supported by an MLOps pipeline for continuous updates.  
+   - **Impact**: Enhanced user engagement with real-time responses.  
+   - [GitHub: Messenger Bot](https://github.com/yayaiu6/ChatGPT-Powered-Messenger-Bot)
+
+8. **Person Tracking System (YOLO + Arduino)**  
+   - Developed a real-time person tracking system using **YOLO** and Arduino with motor drivers. Optimized with MLOps for edge deployment.  
+   - **Impact**: Enabled precise tracking for automation applications.  
+   - [GitHub: Person Tracking](https://github.com/yayaiu6/Person-Tracking-System-with-YOLO-and-Arduino)
+
+9. **Translator Website (Streamlit + Google Translate)**  
+   - Built a Streamlit-based translation web app using Google Translate’s API, with an MLOps pipeline for scalability.  
+   - **Impact**: Provided seamless multilingual translation for users.  
+   - [GitHub: Text Translator](https://github.com/yayaiu6/text-translator)  
+   - [Live Demo](https://yahyaiuu7-code-alpha-text-translator.hf.space/)
+
+10. **ATS System for CV Analysis & Filtering**  
+    - Created an AI-powered Applicant Tracking System using NLP to analyze and rank CVs. Implemented MLOps for model training and performance tracking.  
+    - **Impact**: Improved hiring efficiency by 30%.  
+    
+---
+
+## Why MLOps?
+
+My focus on **MLOps** ensures that AI models transition seamlessly from development to production. By leveraging automated pipelines, model versioning, and performance monitoring, I build reliable, scalable, and efficient ML systems that deliver consistent value.
 
 ---
 
-## Let’s Connect!
+## Let’s Connect
 
-I’d love to chat about AI, collaborate on projects, or just geek out over tech. Reach me here:  
+I’m eager to collaborate on cutting-edge AI projects, optimize ML workflows, or discuss advancements in MLOps. Reach out to me:  
 - 📧 **Email**: [yahyamahroof35@gmail.com](mailto:yahyamahroof35@gmail.com)  
 - 🔗 **GitHub**: [yayaiu6](https://github.com/yayaiu6)  
-- 💼 **LinkedIn**: [yahya-mahroof](https://www.linkedin.com/in/yahya-mahrouf/)  
+- 💼 **LinkedIn**: [yahya-mahroof](https://www.linkedin.com/in/yahya-mahrouf/)
 
 ---
 
 ## What’s Next?
 
-I’m always learning and building. Check out my repos for my latest work, and feel free to fork, star, or drop a suggestion. Let’s make AI awesome together! 😄
+I’m continuously advancing my expertise in **MLOps**, **AI**, and **edge computing** through hands-on projects and cutting-edge research. I’m also actively developing my skills and preparing to pursue a **Master’s degree in Artificial Intelligence** to deepen my knowledge and contribute to groundbreaking advancements in the field. Explore my GitHub for my latest work, and feel free to contribute, star, or share ideas. Let’s shape the future of AI together!
