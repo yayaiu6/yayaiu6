@@ -79,11 +79,7 @@ Below is a curated list of my projects, showcasing my expertise in **MLOps** and
     
 ---
 
-## Why MLOps?
 
-My focus on **MLOps** ensures that AI models transition seamlessly from development to production. By leveraging automated pipelines, model versioning, and performance monitoring, I build reliable, scalable, and efficient ML systems that deliver consistent value.
-
----
 
 ## Let’s Connect
 
