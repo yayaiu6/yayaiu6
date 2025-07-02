@@ -1,6 +1,6 @@
 # About Me
 
-I am a dedicated **AI Engineer** and **MLOps Specialist** passionate about designing, optimizing, and deploying scalable machine learning systems that drive real-world impact. My expertise lies in **MLOps**, **Supervised Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**, with a focus on building robust ML pipelines for seamless model development, deployment, and monitoring.
+I am a dedicated **AI Developer** and **MLOps Specialist** passionate about designing, optimizing, and deploying scalable machine learning systems that drive real-world impact. My expertise lies in **MLOps**, **Supervised Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**, with a focus on building robust ML pipelines for seamless model development, deployment, and monitoring.
 
 ---
 
