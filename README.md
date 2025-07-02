@@ -15,8 +15,8 @@ I am a dedicated **AI Developer** and **MLOps Specialist** passionate about desi
 
 ### Technical Skills
 - **Programming**: Python, c++
-- **MLOps Tools**: Docker, Kubernetes, MLflow, Kubeflow, CI/CD pipelines
-- **AI Frameworks**: Hugging Face, Transformers, YOLO, OpenCV
+- **MLOps Tools**: Docker, Kubernetes, Meta for developers, flask, CI/CD pipelines
+- **AI Frameworks**: Hugging Face, Transformers, YOLO, OpenCV, 
 - **Deployment**: AWS, GCP, Streamlit, edge devices (ARM architectures)
 - **Tools**: Google Colab, Jupyter Notebooks, Kaggle, Git
 
