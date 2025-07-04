@@ -76,7 +76,7 @@ Below is a curated list of my projects, showcasing my expertise in **MLOps** and
 10. **ATS System for CV Analysis & Filtering**  
     - Created an AI-powered Applicant Tracking System using NLP to analyze and rank CVs. Implemented MLOps for model training and performance tracking.  
     - **Impact**: Improved hiring efficiency by 30%.  
-    
+    - [GitHub: ATS system](https://github.com/yayaiu6/Applicant-Tracking-System)
 ---
 
 
