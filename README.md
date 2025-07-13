@@ -91,7 +91,7 @@ I’m obsessed with pushing the boundaries of AI—whether it’s fine-tuning la
 ## 🤝 Let’s Connect!
 I’m always excited to collaborate with innovative teams and tackle challenging AI projects. If you’re a company looking for a passionate AI/MLOps specialist to level up your tech, let’s talk!
 
-- 📫 **LinkedIn**: [linkedin.com/in/yahya-mahroof](https://linkedin.com/in/yahya-mahroof)
+- 📫 **LinkedIn**: [linkedin.com/in/yahya-mahroof](https://linkedin.com/in/yahya-mahrouf)
 - 🌐 **GitHub**: [github.com/yayaiu6](https://github.com/yayaiu6)
 - 📧 **Email**: [yahyamahroof35@gmail.com](mailto:yahyamahroof35@gmail.com)
 
@@ -100,5 +100,3 @@ I’m always excited to collaborate with innovative teams and tackle challenging
 Let’s build the future of AI together! 🚀
 
 ---
-
-*“Code is my canvas, and AI is my brush—let’s paint something extraordinary!”*
