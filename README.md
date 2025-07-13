@@ -1,4 +1,4 @@
-# Hey there, I'm Yahya Mahroof! 👋
+# Yahya Mahroof! 👋
 
 **AI & ML Operations Specialist** from Egypt, with a passion for crafting intelligent, scalable, and production-ready AI solutions. With a knack for building ML models that hit **92%+ accuracy** and automating pipelines to save **30% of preprocessing time**, I’m here to make AI work smarter, not harder! 🚀
 
