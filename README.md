@@ -9,8 +9,6 @@
 
 - 🛠 **What I Do**: I design and deploy **production-grade ML models**, streamline MLOps pipelines, and create **context-aware AI solutions** with **99% user satisfaction**.
 
-- 🌍 **Languages**: Arabic (native), English (proficient).
-
 - 💡 **Fun Fact**: I’ve optimized ML models to run 20% more efficiently on edge devices—because AI should be fast *and* frugal!
 
 ## 🔥 What I Bring to the Table
