@@ -1,7 +1,6 @@
 # Hey there, I'm Yahya Mahroof! 👋
 
-Welcome to my GitHub universe! 
-**AI & MLOPS Specialist** from Alexandria, Egypt, with a passion for crafting intelligent, scalable, and production-ready AI solutions. With a knack for building ML models that hit **92%+ accuracy** and automating pipelines to save **30% of preprocessing time**, I’m here to make AI work smarter, not harder! 🚀
+**AI & Machine Learning Operations Specialist** from Egypt, with a passion for crafting intelligent, scalable, and production-ready AI solutions. With a knack for building ML models that hit **92%+ accuracy** and automating pipelines to save **30% of preprocessing time**, I’m here to make AI work smarter, not harder! 🚀
 
 ## 🌟 About Me
 - 🎓 **Education**: Pursuing a Bachelor's at Damanhour University (expected 2028), with 70+ hours of advanced ML/AI coursework from Stanford Online, DeepLearning.AI, and more.
