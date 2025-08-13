@@ -9,17 +9,17 @@
 
 - 🛠 **What I Do**: I design and deploy **production-grade ML models**, streamline MLOps pipelines, and create **context-aware AI solutions** with **99% user satisfaction**.
 
-- 💡 **Fun Fact**: I’ve optimized ML models to run 20% more efficiently on edge devices—because AI should be fast *and* frugal!
+## 🏆 Notable Achievements
 
-## 🔥 What I Bring to the Table
+- 🥇 Microsoft Hackathon participant, deploying an AI app serving **100+ users**.
 
-- **10+ production ML models** deployed with up to **92% accuracy** in computer vision and NLP.
+- ⚡ Reduced data preprocessing time by **30%** through automated pipelines.
 
-- **30% faster data pipelines** through automation, saving time and resources.
+- 🌟 Delivered ML models with **89–92% accuracy** across domains.
 
-- **Edge AI mastery**, optimizing models for ARM devices with a **20% efficiency boost**.
+- 🤝 Active open-source contributor with engaged GitHub communities.
 
-- **Open-source contributor** with active GitHub repos that spark community engagement.
+- 📱 Optimized Edge AI deployments for **20% better efficiency** on ARM devices.
 
 ## 🛠 Highlighted Projects
 
@@ -65,19 +65,7 @@
 
 - **APIs**: OpenAI, Meta for Developers, Custom APIs
 
-## 🏆 Notable Achievements
-
-- 🥇 Microsoft Hackathon participant, deploying an AI app serving **100+ users**.
-
-- ⚡ Reduced data preprocessing time by **30%** through automated pipelines.
-
-- 🌟 Delivered ML models with **89–92% accuracy** across domains.
-
-- 🤝 Active open-source contributor with engaged GitHub communities.
-
-- 📱 Optimized Edge AI deployments for **20% better efficiency** on ARM devices.
-
-## 🌈 What Drives Me
+##  What Drives Me
 I’m obsessed with pushing the boundaries of AI—whether it’s fine-tuning large language models, optimizing for resource-constrained devices, or automating MLOps pipelines. My goal? To build **enterprise-grade AI solutions** that solve real-world problems, especially in emerging markets.
 
 ## 🚀 Career Goals
