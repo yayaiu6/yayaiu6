@@ -41,8 +41,6 @@
 
 - **[Person Tracking System](https://github.com/yayaiu6/Person-Tracking-System-with-YOLO-and-Arduino)**: Real-time tracking using YOLO and Arduino, optimized for edge deployment.
 
-- **[Text Translator](https://github.com/yayaiu6/text-translator)**: Streamlit-based translation app using Google Translate API ([Live Demo](https://yahyaiuu7-code-alpha-text-translator.hf.space/)).
-
 *Check out my [GitHub Repos](https://github.com/yayaiu6) for more cool projects!*
 
 ## 🧠 Tech Stack
