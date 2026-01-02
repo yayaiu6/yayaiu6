@@ -74,7 +74,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 AI Playground - Solutions Showcase</b> — Live Demo Platform</summary>
 <br>
 
@@ -90,19 +90,6 @@
 - 🌍 **Bilingual Support**: Full English/Arabic interface switching
 - 🌐 **Status:** Active demos for B2B clients
 - 🔗 [**Explore Demos**](https://yayaiu6.github.io/AI-playground/)
-
-</details>
-
-
-<details>
-<summary><b>🎓 Smart Hiring Hub (ATS)</b> — AI Recruitment System</summary>
-<br>
-
-**AI-powered applicant tracking with 1-100 match scores**
-
-- 🎯 **Tech:** OpenAI GPT-4, Flask, SQLite, CV parsing
-- ✅ **Results:** 90% reduction in screening time for HR teams
-- 🌐 **Live Demo:** [Try it here](http://recru-ai.duckdns.org/admin)
 
 </details>
 
