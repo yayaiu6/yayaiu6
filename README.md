@@ -3,7 +3,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Old GIF" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgxMmNiZmh4OGJoajE1ZTlxeHEydWh1Nm5zd3A0ODJwZjZqbHNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="300" alt="New GIF" />
 </div>
 
