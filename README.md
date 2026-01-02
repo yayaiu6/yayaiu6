@@ -85,9 +85,8 @@
 - 📹 [**Watch Demo**](https://youtu.be/QQmGZw-mYtY) | [**View Code**](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
 
 </details>
-
-<details open>
-<summary><b>🎨 AI Playground - Solutions Showcase</b> — Live Demo Platform</summary>
+<details > 
+<summary><b>🎨 AI Playground - Solutions Showcase — click here</b></summary>
 <br>
 
 **Interactive platform demonstrating production-ready AI solutions across multiple industries**
