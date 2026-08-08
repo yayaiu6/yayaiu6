@@ -80,7 +80,7 @@
 - 🎯 **Tech:** NVIDIA NeMo, Whisper, Levenshtein Distance, Flask, SocketIO
 - ✅ **Accuracy:** 80-90% detection rate with <1s latency
 - 🔗 **Impact:** Active open-source community, praised by Tarteel AI researchers
-- 📹 [**Try Demo**](https://aitarteel.frp.cybertopia.xyz) | [**View Code**](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
+- 📹 [**Try Demo**](https://quran-tracker.yahya-mahroof.site) | [**View Code**](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
 
 </details>
 <details > 
